@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/inner classes/inner classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inner classes/src/teory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inner classes/src/primerInnerClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,14 +126,22 @@
       <option name="project" value="LOCAL" />
       <updated>1569948932583</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add teory">
+      <created>1569949591295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569949591295</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated .gitignore" />
     <MESSAGE value="added the outline of the Mario games" />
     <MESSAGE value="add error" />
-    <option name="LAST_COMMIT_MESSAGE" value="add error" />
+    <MESSAGE value="add teory" />
+    <option name="LAST_COMMIT_MESSAGE" value="add teory" />
   </component>
   <component name="WindowStateProjectService">
     <state x="419" y="201" width="566" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1569949563606">
