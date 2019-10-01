@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/inner classes/src/primerInnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inner classes/src/primerInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/inner classes/src/primerInnerClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.errorСlass">
+  <component name="RunManager" selected="Application.primerInnerClass">
     <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mario.Game" />
       <module name="Exceptions" />
@@ -87,8 +88,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="primerInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primerInnerClass" />
+      <module name="inner classes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.primerInnerClass" />
         <item itemvalue="Application.errorСlass" />
         <item itemvalue="Application.Game" />
       </list>
@@ -133,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569949591295</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add inner class">
+      <created>1569949705047</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569949705047</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,29 +157,30 @@
     <MESSAGE value="added the outline of the Mario games" />
     <MESSAGE value="add error" />
     <MESSAGE value="add teory" />
-    <option name="LAST_COMMIT_MESSAGE" value="add teory" />
+    <MESSAGE value="add inner class" />
+    <option name="LAST_COMMIT_MESSAGE" value="add inner class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="419" y="201" width="566" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1569949563606">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="419" y="201" width="566" height="390" key="#com.intellij.fileTypes.FileTypeChooser/49.27.1317.741@49.27.1317.741" timestamp="1569949563606" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1569948879219">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1569950494852">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1569948879219" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1569948879218">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1569950494852" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1569950494851">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1569948879218" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1569948879217">
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1569950494851" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1569950494851">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1569948879217" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1569948879219">
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1569950494851" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1569950494852">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1569948879219" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1569950494852" />
     <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1569948936021">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
