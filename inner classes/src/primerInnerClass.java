@@ -6,7 +6,7 @@ class MyOuter{
         public void seeOuter() {
             System.out.println("Outer x is " + x);
             System.out.println("Inner class ref is " + this);
-            System.out.println("Outer class ref is " + MyOuter.this);
+            System.out.println("Outer class ref is " + MyOuter.this.x);
         }
 
     }

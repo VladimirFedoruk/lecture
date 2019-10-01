@@ -1,7 +1,7 @@
 package Exceptions;
 
 public class Task2 {
-    class AsociativArray{
+    static class AsociativArray{
         int value;
         String key;
         String keyArray [] = new String[100];
@@ -21,7 +21,7 @@ public class Task2 {
         }
 
     }
-    public class Task02 {
+    public static class Task02 {
         public static void main(String args[]){
             AsociativArray ar1 = new AsociativArray();
             ar1.Add("abc", 52);
