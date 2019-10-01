@@ -19,5 +19,7 @@ public class primerInnerClass {
         mo.newMyInner();   // первый вариант
         MyOuter.MyInner inner = mo.new MyInner(); // второй вариант
         inner.seeOuter();
+        MyOuter.MyInner inner2 = new MyOuter().new MyInner(); // третий вариант
+        inner2.seeOuter();
     }
 }

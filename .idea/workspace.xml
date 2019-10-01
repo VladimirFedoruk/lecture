@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inner classes/src/primerInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/inner classes/src/primerInnerClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569949705047</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="two variant access in private classes">
+      <created>1569950962958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569950962958</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,29 +164,30 @@
     <MESSAGE value="add error" />
     <MESSAGE value="add teory" />
     <MESSAGE value="add inner class" />
-    <option name="LAST_COMMIT_MESSAGE" value="add inner class" />
+    <MESSAGE value="two variant access in private classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="two variant access in private classes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="419" y="201" width="566" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1569949563606">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="419" y="201" width="566" height="390" key="#com.intellij.fileTypes.FileTypeChooser/49.27.1317.741@49.27.1317.741" timestamp="1569949563606" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1569950494852">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1569950881711">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1569950494852" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1569950494851">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1569950881711" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1569950881711">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1569950494851" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1569950494851">
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1569950881711" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1569950881710">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1569950494851" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1569950494852">
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1569950881710" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1569950881711">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1569950494852" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1569950881711" />
     <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1569948936021">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
