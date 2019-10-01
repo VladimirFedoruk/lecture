@@ -1,8 +1,12 @@
+import java.security.spec.RSAOtherPrimeInfo;
+
 class MyOuter{
     private int x = 7;
     class MyInner{
         public void seeOuter() {
             System.out.println("Outer x is " + x);
+            System.out.println("Inner class ref is " + this);
+            System.out.println("Outer class ref is " + MyOuter.this);
         }
 
     }
