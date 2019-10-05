@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gameMario/src/Exceptions/HomeWork" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimerVtorogoScenaria/src/MyWonderfulClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inner classes/src/primerInnerClassAnonymus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/src/spisok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +46,10 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/exceptions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -94,8 +102,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="spisok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spisok" />
+      <module name="list" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.spisok" />
         <item itemvalue="Application.primerInnerClass" />
         <item itemvalue="Application.errorСlass" />
         <item itemvalue="Application.Game" />
@@ -220,10 +236,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="add Task1.java" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1570273779468">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="302" y="58" width="800" height="677" key="#Project_Structure/49.27.1317.741@49.27.1317.741" timestamp="1570273779468" />
     <state x="419" y="201" width="608" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1569953710758">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="419" y="201" width="608" height="390" key="#com.intellij.fileTypes.FileTypeChooser/49.27.1317.741@49.27.1317.741" timestamp="1569953710758" />
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1570273939429">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
+    <state x="490" y="154" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1570273939429" />
     <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1569952006855">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
@@ -245,15 +270,31 @@
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
     <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1569953602446" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1569943019063">
-      <screen x="49" y="27" width="1317" height="741" />
+    <state x="1638" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1570046908830">
+      <screen x="1366" y="14" width="1024" height="768" />
     </state>
     <state x="1803" y="224" key="com.intellij.ide.util.TipDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873410989" />
+    <state x="1638" y="238" key="com.intellij.ide.util.TipDialog/49.27.1317.741/1366.14.1024.768@1366.14.1024.768" timestamp="1570046908830" />
     <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1569943019063" />
-    <state x="49" y="27" width="1307" height="741" key="new project wizard" timestamp="1569949409218">
+    <state x="49" y="27" width="1307" height="741" key="new project wizard" timestamp="1570279697632">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1489" y="27" width="1317" height="741" key="new project wizard/0.27.1366.741/1366.0.1440.900@1366.0.1440.900" timestamp="1569872772869" />
-    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1569949409218" />
+    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1570279697632" />
+    <state x="403" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1570278108936">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="403" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog/49.27.1317.741@49.27.1317.741" timestamp="1570278108936" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/inner classes/src/primerInnerClassAnonymus.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

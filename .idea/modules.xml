@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gameMario/Exceptions.iml" filepath="$PROJECT_DIR$/gameMario/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimerVtorogoScenaria/PrimerVtorogoScenaria.iml" filepath="$PROJECT_DIR$/PrimerVtorogoScenaria/PrimerVtorogoScenaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner classes/inner classes.iml" filepath="$PROJECT_DIR$/inner classes/inner classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture.iml" filepath="$PROJECT_DIR$/lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
     </modules>
   </component>
 </project>
