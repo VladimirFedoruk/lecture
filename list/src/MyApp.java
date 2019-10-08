@@ -3,10 +3,12 @@ class Noda {
     Noda ref;
     int data;
 
+
     Noda(Noda ref, int data) {
 
         this.ref = ref;
         this.data = data;
+
     }
 
 
@@ -30,19 +32,76 @@ class List {
             kursor.ref = temp;
         }
     }
-    void add(int data, int insert) {
 
+    boolean add(int data, int insert) {
 
-        if (head == null) {
-            head = new Noda(null, data);
+        Noda kursor = head;
+        if (insert > length()+1 || insert < 0) {
+            System.out.println("You out for border list");
+            return false;
+        }
+
+        if (insert == 0) {
+            Noda n = new Noda(null, data);
+            n.ref = head;
+            n.data = data;
+            head = n;
         } else {
-            Noda kursor = head;
-            while (kursor.ref != null) {
+            int i = 0;
+            while (i < insert - 1) {
+                i++;
                 kursor = kursor.ref;
             }
-            Noda temp = new Noda(null, data);
-            kursor.ref = temp;
+            Noda n = new Noda(null, data);
+
+            n.ref = kursor.ref;
+            n.data = data;
+            kursor.ref = n;
         }
+        return true;
+    }
+
+    boolean remove() {
+
+        Noda kursor = head;
+        int insert=0;
+        if (insert > length()+1 || insert < 0) {
+            System.out.println("You out for border list");
+            return false;
+        }
+
+        if (insert == length()) {
+            kursor.ref = null;
+                    }
+        return true;
+    }
+
+    boolean remove(int data, int insert) {
+
+        Noda kursor = head;
+        if (insert > length()+1 || insert < 0) {
+            System.out.println("You out for border list");
+            return false;
+        }
+
+        if (insert == 0) {
+            Noda n = new Noda(null, data);
+            n.ref = head;
+            n.data = data;
+            head = n;
+        } else {
+            int i = 0;
+            while (i < insert - 1) {
+                i++;
+                kursor = kursor.ref;
+            }
+            Noda n = new Noda(null, data);
+
+            n.ref = kursor.ref;
+            n.data = data;
+            kursor.ref = n;
+        }
+        return true;
     }
 
     void print() {
@@ -53,7 +112,8 @@ class List {
         }
         System.out.println(kursor.data);
     }
-    int length(){
+
+    int length() {
         Noda kursor = head;
         int i = 0;
         while (kursor.ref != null) {
@@ -72,6 +132,7 @@ public class MyApp {
         list.add(54);
         list.add(54);
         list.add(54);
+        list.add(2, 4);
 
         System.out.println(list.length());
         list.print();

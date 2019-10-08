@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/list/src/MyApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/src/spisok.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/src/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/list/src/MyApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,22 +64,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.spisok">
-    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mario.Game" />
-      <module name="Exceptions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mario.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.MyApp">
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List" />
+      <module name="list" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List" />
+    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyApp" />
       <module name="list" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyApp" />
         <item itemvalue="Application.spisok" />
         <item itemvalue="Application.List" />
         <item itemvalue="Application.primerInnerClass" />
         <item itemvalue="Application.errorСlass" />
-        <item itemvalue="Application.Game" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570280615634</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add new function">
+      <created>1570554138982</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1570554138982</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -246,7 +246,8 @@
     <MESSAGE value="add Task2.java" />
     <MESSAGE value="add Task1.java" />
     <MESSAGE value="primer anonimnogo classa" />
-    <option name="LAST_COMMIT_MESSAGE" value="primer anonimnogo classa" />
+    <MESSAGE value="add new function" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new function" />
   </component>
   <component name="WindowStateProjectService">
     <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1570273779468">
@@ -262,27 +263,27 @@
     </state>
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
     <state x="490" y="154" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1570273939429" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1569952006855">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1570558677229">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1569952006855" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1569952006854">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1570558677229" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1570558677228">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1569952006854" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1569952006853">
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1570558677228" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1570558677227">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1569952006853" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1569952006854">
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1570558677227" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1570558677228">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1569952006854" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1570280621578">
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1570558677228" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1570554142101">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1570280621578" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1570554142101" />
     <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1570550596678">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
