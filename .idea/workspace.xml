@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/inner classes/src/NewStaticInnerClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/CollectionArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimerVtorogoScenaria/PrimerVtorogoScenaria.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +67,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyApp">
+  <component name="RunManager" selected="Application.CollectionArrayList">
+    <configuration name="CollectionArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionArrayList" />
+      <module name="Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="List" />
       <module name="list" />
@@ -75,19 +85,6 @@
     <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyApp" />
       <module name="list" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="errorСlass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.errorСlass" />
-      <module name="Exceptions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionArrayList" />
         <item itemvalue="Application.MyApp" />
         <item itemvalue="Application.spisok" />
         <item itemvalue="Application.List" />
         <item itemvalue="Application.primerInnerClass" />
-        <item itemvalue="Application.errorСlass" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570558713608</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add 2 situajshens">
+      <created>1570878047417</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1570878047417</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -254,7 +258,8 @@
     <MESSAGE value="add Task1.java" />
     <MESSAGE value="primer anonimnogo classa" />
     <MESSAGE value="add new function" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new function" />
+    <MESSAGE value="add 2 situajshens" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 2 situajshens" />
   </component>
   <component name="WindowStateProjectService">
     <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1570273779468">
@@ -286,22 +291,22 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1570558782849" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1570558716122">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1570878051822">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1570558716122" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1570878051822" />
     <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1570877647886">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1803" y="224" key="com.intellij.ide.util.TipDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873410989" />
     <state x="1638" y="238" key="com.intellij.ide.util.TipDialog/49.27.1317.741/1366.14.1024.768@1366.14.1024.768" timestamp="1570046908830" />
     <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1570877647886" />
-    <state x="49" y="27" width="1307" height="741" key="new project wizard" timestamp="1570279697632">
+    <state x="49" y="27" width="1307" height="741" key="new project wizard" timestamp="1570878129555">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1489" y="27" width="1317" height="741" key="new project wizard/0.27.1366.741/1366.0.1440.900@1366.0.1440.900" timestamp="1569872772869" />
-    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1570279697632" />
+    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1570878129555" />
     <state x="403" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1570278108936">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
