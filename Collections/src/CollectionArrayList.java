@@ -22,6 +22,7 @@ public class CollectionArrayList {
         for(String value : test) {
             System.out.println(value);
         }
+        System.out.println(test);
 
     }
 }
