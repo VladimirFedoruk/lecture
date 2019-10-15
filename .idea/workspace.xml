@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Collections/src/CollectionSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/src/CollectionPriorityQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/src/redefineMetod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/redefineMetod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,14 @@
       <recent name="$PROJECT_DIR$/exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionSet">
+  <component name="RunManager" selected="Application.CollectionPriorityQueue">
+    <configuration name="CollectionPriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionPriorityQueue" />
+      <module name="Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectionSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectionSet" />
       <module name="Collections" />
@@ -75,13 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mussirnoe_vedro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mussirnoe_vedro" />
-      <module name="Collections" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SetTest" />
       <module name="Collections" />
@@ -91,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionPriorityQueue" />
         <item itemvalue="Application.CollectionSet" />
         <item itemvalue="Application.SetTest" />
         <item itemvalue="Application.DVDInfo" />
         <item itemvalue="Application.CollectionsFruits" />
-        <item itemvalue="Application.Mussirnoe_vedro" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571156382027</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="сравнили коллекции Set">
+      <created>1571159049054</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1571159049054</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -296,7 +302,8 @@
     <MESSAGE value="add 2 situajshens" />
     <MESSAGE value="add framework" />
     <MESSAGE value="добавил перегруженный метод" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил перегруженный метод" />
+    <MESSAGE value="сравнили коллекции Set" />
+    <option name="LAST_COMMIT_MESSAGE" value="сравнили коллекции Set" />
   </component>
   <component name="WindowStateProjectService">
     <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1570273779468">
@@ -316,27 +323,27 @@
     </state>
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
     <state x="490" y="154" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1570273939429" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1571158921233">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1571161207885">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1571158921233" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1571158921229">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1571161207885" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1571161207884">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1571158921229" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1571158921229">
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1571161207884" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1571161207883">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1571158921229" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1571158921232">
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1571161207883" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1571161207884">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1571158921232" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1571156384558">
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1571161207884" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1571159052740">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1571156384558" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1571159052740" />
     <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1571151614150">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
