@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Collections/src/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -301,7 +301,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571162771597</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="добавить метод вставки">
+      <created>1571487737361</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1571487737361</updated>
+    </task>
+    <task id="LOCAL-00029" summary="добавить метод вставки">
+      <created>1571487786314</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1571487786314</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -322,7 +336,8 @@
     <MESSAGE value="сравнили коллекции Set" />
     <MESSAGE value="рассмотрели очередь" />
     <MESSAGE value="рассмотрели iterator" />
-    <option name="LAST_COMMIT_MESSAGE" value="рассмотрели iterator" />
+    <MESSAGE value="добавить метод вставки" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавить метод вставки" />
   </component>
   <component name="WindowStateProjectService">
     <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1570273779468">
@@ -342,27 +357,27 @@
     </state>
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
     <state x="490" y="154" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1570273939429" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1571487703117">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1571488166921">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1571487703117" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1571487703116">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1571488166921" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1571488166920">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1571487703116" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1571487703116">
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1571488166920" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1571488166920">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1571487703116" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1571487703117">
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1571488166920" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1571488166921">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1571487703117" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1571487739599">
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1571488166921" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1571487788257">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1571487739599" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1571487788257" />
     <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1571481867846">
       <screen x="49" y="27" width="1317" height="741" />
     </state>

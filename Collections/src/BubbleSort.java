@@ -45,8 +45,8 @@ public class BubbleSort {
             System.out.println("Элемент не найден в массиве. Метод бинарного поиска закончил работу после "
                     + comparisonCount + " сравнений");
         }
-        System.out.println("искомая позиция " + index);
-        return index;
+        System.out.println("искомая позиция " + position);
+        return position;
     }
 
 
