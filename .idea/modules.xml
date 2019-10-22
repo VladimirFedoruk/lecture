@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/gameMario/Exceptions.iml" filepath="$PROJECT_DIR$/gameMario/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimerVtorogoScenaria/PrimerVtorogoScenaria.iml" filepath="$PROJECT_DIR$/PrimerVtorogoScenaria/PrimerVtorogoScenaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner classes/inner classes.iml" filepath="$PROJECT_DIR$/inner classes/inner classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture.iml" filepath="$PROJECT_DIR$/lecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />

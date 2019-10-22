@@ -1,3 +1,7 @@
+import java.util.Arrays;
+import java.util.Collections;
+import java.lang.reflect.Array;
+
 public class BubbleSort {
     public static int[] sort(int[] mas) {
         int i = 0;
@@ -21,31 +25,14 @@ public class BubbleSort {
     }
 
     public static int find(int[] mas, int x) {
+        int a = Arrays.binarySearch(mas,x);
+        System.out.println(Arrays.binarySearch(mas,x));
         int position;
-        int comparisonCount = 1;
-        int first = 0;
-        int last = mas.length-1;
-        int index = -1;
-        position = (first + last) / 2;
-
-        while ((mas[position] != x) && (first <= last)) {
-            comparisonCount++;
-            if (mas[position] > x) {  // если число заданного для поиска
-                last = position - 1; // уменьшаем позицию на 1.
-            } else {
-                first = position + 1;    // иначе увеличиваем на 1
-            }
-            position = (first + last) / 2;
+        if(a>0){
+            position = (a-1);
         }
-        if (first <= last) {
-            System.out.println(x+ " является " + ++position + " элементом в массиве");
-            System.out.println("Метод бинарного поиска нашел число после " + comparisonCount +
-                    " сравнений");
-        } else {
-            System.out.println("Элемент не найден в массиве. Метод бинарного поиска закончил работу после "
-                    + comparisonCount + " сравнений");
-        }
-        System.out.println("искомая позиция " + position);
+        else position=-(a+1);
+        System.out.println(position);
         return position;
     }
 
@@ -60,7 +47,7 @@ public class BubbleSort {
         mas[4] = 132;
         mas[5] = 1675;
         mas[6] = 1343;
-        mas[7] = 1;
+        mas[7] = 2;
 
         for (int i = 0; i < mas.length; i++) {
             System.out.print(mas[i] + " ");
@@ -76,9 +63,25 @@ public class BubbleSort {
         }
         System.out.println("----Окончание вывода массива после сортировки----");
 
-        int x = 1343;
+        int x = 1;
         int ind = find(mas,x);
+        System.out.println("----Место вставки  = " + ind);
 
+
+        int u [] = new int[mas.length + 1];
+
+        for(int i = 0; i<mas.length;i++){
+            if(i<ind){
+                u[i] = mas[i];
+            } else {
+                u[i+1] = mas[i];
+            }
+
+        }
+        u[ind] = x;
+
+        for(int i : u)
+            System.out.print(i+", ");
     }
 
 
