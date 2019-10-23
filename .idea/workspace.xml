@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/vladimir.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HiLo/src/HiLo.java" beforeDir="false" afterPath="$PROJECT_DIR$/HiLo/src/HiLo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <recent name="$PROJECT_DIR$/exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InterfRunnable">
+  <component name="RunManager" selected="Application.HiLo">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch" />
       <module name="Collections" />
@@ -72,9 +71,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionMap" />
-      <module name="Collections" />
+    <configuration name="HiLo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HiLo" />
+      <module name="HiLo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HiLo" />
         <item itemvalue="Application.InterfRunnable" />
         <item itemvalue="Application.ThreadExecution" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.CollectionMap" />
       </list>
     </recent_temporary>
   </component>
@@ -394,11 +393,17 @@
       <option name="project" value="LOCAL" />
       <updated>1571768325710</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="игра">
+      <created>1571864417245</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1571864417245</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add teory" />
     <MESSAGE value="add inner class" />
     <MESSAGE value="two variant access in private classes" />
     <MESSAGE value="tree variant access in private classes" />
@@ -423,7 +428,8 @@
     <MESSAGE value="добавил 2-й сценария создание многопоточноти" />
     <MESSAGE value="добавил методы управления потоками" />
     <MESSAGE value="добавил метод засыпания потоком" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил метод засыпания потоком" />
+    <MESSAGE value="игра" />
+    <option name="LAST_COMMIT_MESSAGE" value="игра" />
   </component>
   <component name="WindowStateProjectService">
     <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1570273779468">
@@ -463,11 +469,11 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="196" y="31" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1571864076034" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1571768327454">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1571864419940">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1571768327454" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1571864419940" />
     <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1571863707442">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
