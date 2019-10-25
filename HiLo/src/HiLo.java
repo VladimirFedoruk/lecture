@@ -1,10 +1,19 @@
 import java.util.Arrays;
 import java.util.Scanner;
-import javax.swing.JFrame;
+import javax.swing.*;
 
 
 public class HiLo {
     public static void main(String[] args) {
+        JFrame window = new JFrame("Игра Больше - Меньше");
+        JPanel panel = new JPanel();
+        JButton button = new JButton("Click me!");
+        panel.add(button);
+        window.add(panel);
+        window.setSize(300,100);
+        button.addActionListener(e -> System.out.println("Ouch! You clicked me!"));
+        window.setVisible(true);
+
         Scanner scan = new Scanner(System.in);
         String playAgain = "";
         do {
@@ -27,8 +36,6 @@ public class HiLo {
         } while (playAgain.equalsIgnoreCase("y"));
         System.out.println("Thank you for playing! Goodbye.");
         scan.close();
-
-
 
 
     }
