@@ -1,5 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
+import javax.swing.JFrame;
+
 
 public class HiLo {
     public static void main(String[] args) {
@@ -25,5 +27,11 @@ public class HiLo {
         } while (playAgain.equalsIgnoreCase("y"));
         System.out.println("Thank you for playing! Goodbye.");
         scan.close();
+
+        JFrame myFrame = new JFrame("Hello!");
+        myFrame.setSize(300,200);
+        myFrame.setVisible(true);
+
+
     }
 }
