@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JoinMethod/src/JoinMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HiLo/src/HiLo.java" beforeDir="false" afterPath="$PROJECT_DIR$/HiLo/src/HiLo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,14 +57,7 @@
       <recent name="$PROJECT_DIR$/exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HiLo">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
-      <module name="Collections" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.JoinMethod">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="Collections" />
@@ -85,6 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JoinMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JoinMethod" />
+      <module name="JoinMethod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreadExecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreadExecution" />
       <module name="Thread" />
@@ -94,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JoinMethod" />
         <item itemvalue="Application.HiLo" />
         <item itemvalue="Application.InterfRunnable" />
         <item itemvalue="Application.ThreadExecution" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -453,10 +454,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="add scan.close();" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1570273779468">
+    <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1572089146048">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="302" y="58" width="800" height="677" key="#Project_Structure/49.27.1317.741@49.27.1317.741" timestamp="1570273779468" />
+    <state x="302" y="58" width="800" height="677" key="#Project_Structure/49.27.1317.741@49.27.1317.741" timestamp="1572089146048" />
     <state x="419" y="201" width="747" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1571767276198">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
@@ -470,22 +471,22 @@
     </state>
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
     <state x="490" y="154" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1570273939429" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572036591611">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572089580787">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1572036591611" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1572036591611">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1572089580787" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1572089580785">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1572036591611" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1572036591610">
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1572089580785" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1572089580783">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1572036591610" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1572036591611">
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1572089580783" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1572089580786">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1572036591611" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1572089580786" />
     <state x="196" y="31" key="SettingsEditor" timestamp="1571864076034">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
@@ -501,11 +502,11 @@
     <state x="1803" y="224" key="com.intellij.ide.util.TipDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873410989" />
     <state x="1638" y="238" key="com.intellij.ide.util.TipDialog/49.27.1317.741/1366.14.1024.768@1366.14.1024.768" timestamp="1570046908830" />
     <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1572033972505" />
-    <state x="49" y="27" width="1307" height="741" key="new project wizard" timestamp="1571864323831">
+    <state x="49" y="27" width="1307" height="741" key="new project wizard" timestamp="1572089123262">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1489" y="27" width="1317" height="741" key="new project wizard/0.27.1366.741/1366.0.1440.900@1366.0.1440.900" timestamp="1569872772869" />
-    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1571864323831" />
+    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1572089123262" />
     <state x="403" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1570278108936">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
