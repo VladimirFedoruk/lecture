@@ -28,9 +28,7 @@ public class HiLo {
         System.out.println("Thank you for playing! Goodbye.");
         scan.close();
 
-        JFrame myFrame = new JFrame("Hello!");
-        myFrame.setSize(300,200);
-        myFrame.setVisible(true);
+
 
 
     }

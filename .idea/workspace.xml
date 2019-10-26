@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sinhronizaciya/sinhronizaciya.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sinhronizaciya/src/Sinhronizaciya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -437,11 +434,17 @@
       <option name="project" value="LOCAL" />
       <updated>1572090445631</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="add synchronized method">
+      <created>1572094346293</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1572094346293</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Task2.java" />
     <MESSAGE value="add Task1.java" />
     <MESSAGE value="primer anonimnogo classa" />
     <MESSAGE value="add new function" />
@@ -466,7 +469,8 @@
     <MESSAGE value="add Scanner" />
     <MESSAGE value="add scan.close();" />
     <MESSAGE value="add join method" />
-    <option name="LAST_COMMIT_MESSAGE" value="add join method" />
+    <MESSAGE value="add synchronized method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add synchronized method" />
   </component>
   <component name="WindowStateProjectService">
     <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1572089146048">
@@ -486,37 +490,37 @@
     </state>
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
     <state x="490" y="154" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1570273939429" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572094272296">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572095849884">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1572094272296" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1572094272295">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1572095849884" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1572095849884">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1572094272295" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1572094272294">
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1572095849884" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1572095849883">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1572094272294" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1572094272295">
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1572095849883" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1572095849884">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1572094272295" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1572095849884" />
     <state x="196" y="31" key="SettingsEditor" timestamp="1571864076034">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="196" y="31" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1571864076034" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572090020430">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572094348190">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572090020430" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1572033972505">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572094348190" />
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1572120863666">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1803" y="224" key="com.intellij.ide.util.TipDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873410989" />
     <state x="1638" y="238" key="com.intellij.ide.util.TipDialog/49.27.1317.741/1366.14.1024.768@1366.14.1024.768" timestamp="1570046908830" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1572033972505" />
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1572120863666" />
     <state x="49" y="27" width="1307" height="741" key="new project wizard" timestamp="1572090898895">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
