@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/gameMario/Exceptions.iml" filepath="$PROJECT_DIR$/gameMario/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessingGame/GuessingGame.iml" filepath="$PROJECT_DIR$/GuessingGame/GuessingGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/HiLo/HiLo.iml" filepath="$PROJECT_DIR$/HiLo/HiLo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JoinMethod/JoinMethod.iml" filepath="$PROJECT_DIR$/JoinMethod/JoinMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimerVtorogoScenaria/PrimerVtorogoScenaria.iml" filepath="$PROJECT_DIR$/PrimerVtorogoScenaria/PrimerVtorogoScenaria.iml" />
