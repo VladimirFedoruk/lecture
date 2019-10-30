@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DeadLock/DeadLockRisk.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeadLock/src/DeadLockRisk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sinhronStaticContext/sinhronStaticContext.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="181" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -438,11 +435,17 @@
       <option name="project" value="LOCAL" />
       <updated>1572037154673</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="add DeadLock situation">
+      <created>1572372161588</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1572372161588</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="primer anonimnogo classa" />
     <MESSAGE value="add new function" />
     <MESSAGE value="add 2 situajshens" />
     <MESSAGE value="add framework" />
@@ -467,7 +470,8 @@
     <MESSAGE value="add граф окно" />
     <MESSAGE value="apgrade граф окно" />
     <MESSAGE value="add граф окно&#10;&#10;Signed-off-by: VladimirFedoruk &lt;anvil.prog@gmail.com&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add граф окно&#10;&#10;Signed-off-by: VladimirFedoruk &lt;anvil.prog@gmail.com&gt;" />
+    <MESSAGE value="add DeadLock situation" />
+    <option name="LAST_COMMIT_MESSAGE" value="add DeadLock situation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1570273779468">
@@ -487,37 +491,37 @@
     </state>
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
     <state x="490" y="154" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1570273939429" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572372074095">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572457524396">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1572372074095" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1572372074093">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1572457524396" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1572457524395">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1572372074093" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1572372074093">
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1572457524395" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1572457524394">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1572372074093" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1572372074094">
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1572457524394" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1572457524395">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1572372074094" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1572457524395" />
     <state x="196" y="31" key="SettingsEditor" timestamp="1571864076034">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="196" y="31" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1571864076034" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572037158215">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572372163577">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572037158215" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1572086571643">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572372163577" />
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1572457490670">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1803" y="224" key="com.intellij.ide.util.TipDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873410989" />
     <state x="1638" y="238" key="com.intellij.ide.util.TipDialog/49.27.1317.741/1366.14.1024.768@1366.14.1024.768" timestamp="1570046908830" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1572086571643" />
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1572457490670" />
     <state x="49" y="27" width="1307" height="741" key="new project wizard" timestamp="1572368805600">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
