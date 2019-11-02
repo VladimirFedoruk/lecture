@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="" />
+    <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="add new game">
+      <change afterPath="$PROJECT_DIR$/RaceCondition/RaceCondition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RaceCondition/src/Barrel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,11 +48,13 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RaceCondition/src" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/RaceCondition/src" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -56,7 +64,14 @@
       <recent name="$PROJECT_DIR$/exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeadLockRisk">
+  <component name="RunManager" selected="Application.Barrel">
+    <configuration name="Barrel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Barrel" />
+      <module name="RaceCondition" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeadLock" />
       <module name="DeadLockRisk" />
@@ -78,13 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfRunnable" />
-      <module name="Thread" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ThreadZakreplenie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreadZakreplenie" />
       <module name="Thread" />
@@ -94,13 +102,20 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Barrel" />
         <item itemvalue="Application.DeadLockRisk" />
         <item itemvalue="Application.DeadLock" />
         <item itemvalue="Application.ThreadZakreplenie" />
         <item itemvalue="Application.HiLo" />
-        <item itemvalue="Application.InterfRunnable" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView />
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -442,11 +457,17 @@
       <option name="project" value="LOCAL" />
       <updated>1572372161588</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="add new game">
+      <created>1572457585825</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1572457585825</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add new function" />
     <MESSAGE value="add 2 situajshens" />
     <MESSAGE value="add framework" />
     <MESSAGE value="добавил перегруженный метод" />
@@ -471,13 +492,18 @@
     <MESSAGE value="apgrade граф окно" />
     <MESSAGE value="add граф окно&#10;&#10;Signed-off-by: VladimirFedoruk &lt;anvil.prog@gmail.com&gt;" />
     <MESSAGE value="add DeadLock situation" />
-    <option name="LAST_COMMIT_MESSAGE" value="add DeadLock situation" />
+    <MESSAGE value="add new game" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new game" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1570273779468">
+    <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1572457647870">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="302" y="58" width="800" height="677" key="#Project_Structure/49.27.1317.741@49.27.1317.741" timestamp="1570273779468" />
+    <state x="302" y="58" width="800" height="677" key="#Project_Structure/49.27.1317.741@49.27.1317.741" timestamp="1572457647870" />
+    <state x="165" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1572457751608">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="165" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/49.27.1317.741@49.27.1317.741" timestamp="1572457751608" />
     <state x="419" y="201" width="747" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1571767276198">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
@@ -486,11 +512,19 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="515" y="109" width="544" height="575" key="#com.intellij.ide.util.MemberChooser/49.27.1317.741@49.27.1317.741" timestamp="1571759899491" />
-    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1570273939429">
+    <state x="443" y="243" width="518" height="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1572457863547">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="443" y="243" width="518" height="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/49.27.1317.741@49.27.1317.741" timestamp="1572457863547" />
+    <state x="149" y="125" width="1117" height="543" key="DiffContextDialog" timestamp="1572693104047">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="149" y="125" width="1117" height="543" key="DiffContextDialog/49.27.1317.741@49.27.1317.741" timestamp="1572693104047" />
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1572693103235">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
-    <state x="490" y="154" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1570273939429" />
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1572693103235" />
     <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572457524396">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
@@ -511,22 +545,22 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="196" y="31" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1571864076034" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572372163577">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572457588331">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572372163577" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1572457490670">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572457588331" />
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1572692851069">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1803" y="224" key="com.intellij.ide.util.TipDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873410989" />
     <state x="1638" y="238" key="com.intellij.ide.util.TipDialog/49.27.1317.741/1366.14.1024.768@1366.14.1024.768" timestamp="1570046908830" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1572457490670" />
-    <state x="49" y="27" width="1307" height="741" key="new project wizard" timestamp="1572368805600">
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1572692851069" />
+    <state x="49" y="27" width="1307" height="741" key="new project wizard" timestamp="1572693082379">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1489" y="27" width="1317" height="741" key="new project wizard/0.27.1366.741/1366.0.1440.900@1366.0.1440.900" timestamp="1569872772869" />
-    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1572368805600" />
+    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1572693082379" />
     <state x="403" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1570278108936">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
