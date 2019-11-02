@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="add new game">
-      <change afterPath="$PROJECT_DIR$/RaceCondition/RaceCondition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RaceCondition/src/Barrel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="add race condition">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RaceCondition/src/Barrel.java" beforeDir="false" afterPath="$PROJECT_DIR$/RaceCondition/src/Barrel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -464,11 +461,17 @@
       <option name="project" value="LOCAL" />
       <updated>1572457585825</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="add race condition">
+      <created>1572693762850</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1572693762850</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 2 situajshens" />
     <MESSAGE value="add framework" />
     <MESSAGE value="добавил перегруженный метод" />
     <MESSAGE value="сравнили коллекции Set" />
@@ -493,7 +496,8 @@
     <MESSAGE value="add граф окно&#10;&#10;Signed-off-by: VladimirFedoruk &lt;anvil.prog@gmail.com&gt;" />
     <MESSAGE value="add DeadLock situation" />
     <MESSAGE value="add new game" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new game" />
+    <MESSAGE value="add race condition" />
+    <option name="LAST_COMMIT_MESSAGE" value="add race condition" />
   </component>
   <component name="WindowStateProjectService">
     <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1572457647870">
@@ -525,31 +529,31 @@
     </state>
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1572693103235" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572457524396">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572693724422">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1572457524396" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1572457524395">
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1572693724422" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1572693724422">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1572457524395" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1572457524394">
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1572693724422" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1572693724421">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1572457524394" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1572457524395">
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1572693724421" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1572693724422">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1572457524395" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1572693724422" />
     <state x="196" y="31" key="SettingsEditor" timestamp="1571864076034">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="196" y="31" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1571864076034" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572457588331">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572693781967">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572457588331" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572693781967" />
     <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1572692851069">
       <screen x="49" y="27" width="1317" height="741" />
     </state>

@@ -2,7 +2,7 @@ public class Barrel implements Runnable {
     private int value;
     String e = "Empty";
     String f = "full";
-    public void useTank( ) {
+    synchronized public void useTank( ) {
         value= (int) (Math.random() * 10)*10;
         if (value>0){
             System.out.println(f+" "+value);
