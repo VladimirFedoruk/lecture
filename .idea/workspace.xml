@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="add race condition">
+      <change afterPath="$PROJECT_DIR$/DataBase/DataBase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBase/src/teoriya" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InteractionOfThreads/InteractionOfThreads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InteractionOfThreads/src/Sklad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RaceCondition/src/Barrel.java" beforeDir="false" afterPath="$PROJECT_DIR$/RaceCondition/src/Barrel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +65,7 @@
       <recent name="$PROJECT_DIR$/exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Barrel">
+  <component name="RunManager" selected="Application.Sklad">
     <configuration name="Barrel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Barrel" />
       <module name="RaceCondition" />
@@ -83,9 +87,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HiLo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HiLo" />
-      <module name="HiLo" />
+    <configuration name="Sklad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sklad" />
+      <module name="InteractionOfThreads" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sklad" />
         <item itemvalue="Application.Barrel" />
         <item itemvalue="Application.DeadLockRisk" />
         <item itemvalue="Application.DeadLock" />
         <item itemvalue="Application.ThreadZakreplenie" />
-        <item itemvalue="Application.HiLo" />
       </list>
     </recent_temporary>
   </component>
@@ -124,13 +128,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569871768129</updated>
-    </task>
-    <task id="LOCAL-00001" summary="updated .gitignore">
-      <created>1569872549362</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1569872549362</updated>
     </task>
     <task id="LOCAL-00002" summary="added the outline of the Mario games">
       <created>1569873939568</created>
@@ -468,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572693762850</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="add race condition">
+      <created>1572693849330</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1572693849332</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -508,10 +512,10 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="165" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/49.27.1317.741@49.27.1317.741" timestamp="1572457751608" />
-    <state x="419" y="201" width="747" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1571767276198">
+    <state x="419" y="201" width="747" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1572970329047">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="419" y="201" width="747" height="390" key="#com.intellij.fileTypes.FileTypeChooser/49.27.1317.741@49.27.1317.741" timestamp="1571767276198" />
+    <state x="419" y="201" width="747" height="390" key="#com.intellij.fileTypes.FileTypeChooser/49.27.1317.741@49.27.1317.741" timestamp="1572970329047" />
     <state x="515" y="109" width="544" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1571759899491">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
@@ -529,42 +533,47 @@
     </state>
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1572693103235" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572693724422">
-      <screen x="49" y="27" width="1317" height="741" />
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572699545082">
+      <screen x="49" y="27" width="3237" height="1053" />
     </state>
     <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1572693724422" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1572693724422">
-      <screen x="49" y="27" width="1317" height="741" />
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545082" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1572699545081">
+      <screen x="49" y="27" width="3237" height="1053" />
     </state>
     <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1572693724422" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1572693724421">
-      <screen x="49" y="27" width="1317" height="741" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545081" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1572699545080">
+      <screen x="49" y="27" width="3237" height="1053" />
     </state>
     <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1572693724421" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1572693724422">
-      <screen x="49" y="27" width="1317" height="741" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545080" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1572699545081">
+      <screen x="49" y="27" width="3237" height="1053" />
     </state>
     <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1572693724422" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545081" />
     <state x="196" y="31" key="SettingsEditor" timestamp="1571864076034">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="196" y="31" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1571864076034" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572693781967">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572693851237">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572693781967" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1572692851069">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572693851237" />
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1572967723342">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1803" y="224" key="com.intellij.ide.util.TipDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873410989" />
     <state x="1638" y="238" key="com.intellij.ide.util.TipDialog/49.27.1317.741/1366.14.1024.768@1366.14.1024.768" timestamp="1570046908830" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1572692851069" />
-    <state x="49" y="27" width="1307" height="741" key="new project wizard" timestamp="1572693082379">
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1572967723342" />
+    <state x="49" y="27" width="654" height="472" key="new project wizard" timestamp="1572969905251">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1489" y="27" width="1317" height="741" key="new project wizard/0.27.1366.741/1366.0.1440.900@1366.0.1440.900" timestamp="1569872772869" />
-    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1572693082379" />
+    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1572969905251" />
+    <state x="356" y="97" width="654" height="472" key="new project wizard/49.27.3237.1053@49.27.3237.1053" timestamp="1572697746830" />
     <state x="403" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1570278108936">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
