@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="add race condition">
-      <change afterPath="$PROJECT_DIR$/DataBase/DataBase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataBase/src/teoriya" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InteractionOfThreads/InteractionOfThreads.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InteractionOfThreads/src/Sklad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="add теорию о базах данных">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataBase/src/teoriya" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase/src/teoriya" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,13 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569871768129</updated>
-    </task>
-    <task id="LOCAL-00002" summary="added the outline of the Mario games">
-      <created>1569873939568</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1569873939568</updated>
     </task>
     <task id="LOCAL-00003" summary="add error">
       <created>1569948932583</created>
@@ -472,11 +461,17 @@
       <option name="project" value="LOCAL" />
       <updated>1572693849332</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="add теорию о базах данных">
+      <created>1572971076739</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1572971076740</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add framework" />
     <MESSAGE value="добавил перегруженный метод" />
     <MESSAGE value="сравнили коллекции Set" />
     <MESSAGE value="рассмотрели очередь" />
@@ -501,7 +496,8 @@
     <MESSAGE value="add DeadLock situation" />
     <MESSAGE value="add new game" />
     <MESSAGE value="add race condition" />
-    <option name="LAST_COMMIT_MESSAGE" value="add race condition" />
+    <MESSAGE value="add теорию о базах данных" />
+    <option name="LAST_COMMIT_MESSAGE" value="add теорию о базах данных" />
   </component>
   <component name="WindowStateProjectService">
     <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1572457647870">
@@ -557,11 +553,11 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="196" y="31" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1571864076034" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572693851237">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572971145742">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572693851237" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572971145742" />
     <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1572967723342">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
