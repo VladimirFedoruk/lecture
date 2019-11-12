@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="add теорию о базах данных">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataBase/src/teoriya" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase/src/teoriya" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +13,9 @@
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="181" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lecture" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,6 +40,13 @@
       </set>
     </option>
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectId" id="1RZPi3ktPrfnKFZp7fVrfxnfhQg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,13 +55,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="Module 'DataBase'" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/RaceCondition/src" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/RaceCondition/src" />
   </component>
   <component name="RecentsManager">
@@ -110,7 +122,12 @@
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
-        <serviceView />
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -124,13 +141,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569871768129</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add error">
-      <created>1569948932583</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1569948932583</updated>
     </task>
     <task id="LOCAL-00004" summary="add teory">
       <created>1569949591295</created>
@@ -468,8 +478,28 @@
       <option name="project" value="LOCAL" />
       <updated>1572971076740</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="add теорию о базах данных">
+      <created>1572977940132</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1572977940132</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавил перегруженный метод" />
@@ -504,6 +534,11 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="302" y="58" width="800" height="677" key="#Project_Structure/49.27.1317.741@49.27.1317.741" timestamp="1572457647870" />
+    <state x="1489" y="27" width="800" height="677" key="#Updates" timestamp="1573545871067">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1489" y="27" key="#Updates/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573545871067" />
+    <state x="49" y="27" width="800" height="677" key="#Updates/49.27.1317.741@49.27.1317.741" timestamp="1572985624573" />
     <state x="165" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1572457751608">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
@@ -516,17 +551,27 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="515" y="109" width="544" height="575" key="#com.intellij.ide.util.MemberChooser/49.27.1317.741@49.27.1317.741" timestamp="1571759899491" />
+    <state x="1830" y="124" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1573545872952">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1830" y="124" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573545872952" />
     <state x="443" y="243" width="518" height="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1572457863547">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="443" y="243" width="518" height="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/49.27.1317.741@49.27.1317.741" timestamp="1572457863547" />
+    <state x="1638" y="28" width="924" height="684" key="DBNavigator.ProjectSettingsDialog" timestamp="1573553489493">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1638" y="28" key="DBNavigator.ProjectSettingsDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553489493" />
+    <state x="240" y="54" width="924" height="684" key="DBNavigator.ProjectSettingsDialog/49.27.1317.741@49.27.1317.741" timestamp="1572986723720" />
     <state x="149" y="125" width="1117" height="543" key="DiffContextDialog" timestamp="1572693104047">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="149" y="125" width="1117" height="543" key="DiffContextDialog/49.27.1317.741@49.27.1317.741" timestamp="1572693104047" />
-    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1572693103235">
-      <screen x="49" y="27" width="1317" height="741" />
+    <state x="1897" y="132" width="424" height="484" key="FileChooserDialogImpl" timestamp="1573553255822">
+      <screen x="1440" y="0" width="1366" height="768" />
     </state>
+    <state x="1897" y="132" key="FileChooserDialogImpl/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553255822" />
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1572693103235" />
     <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572699545082">
@@ -549,21 +594,25 @@
     </state>
     <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1572693724422" />
     <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545081" />
-    <state x="196" y="31" key="SettingsEditor" timestamp="1571864076034">
+    <state x="196" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1572986561292">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="196" y="31" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1571864076034" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572971145742">
+    <state x="196" y="27" width="1024" height="741" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1572986561292" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572977941964">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572971145742" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1572967723342">
-      <screen x="49" y="27" width="1317" height="741" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572977941964" />
+    <state x="383" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1573541652907">
+      <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="1803" y="224" key="com.intellij.ide.util.TipDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873410989" />
+    <state x="383" y="281" key="com.intellij.ide.util.TipDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573541652907" />
     <state x="1638" y="238" key="com.intellij.ide.util.TipDialog/49.27.1317.741/1366.14.1024.768@1366.14.1024.768" timestamp="1570046908830" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1572967723342" />
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1572986605796" />
+    <state x="1811" y="79" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1573553388889">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1811" y="79" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553388889" />
     <state x="49" y="27" width="654" height="472" key="new project wizard" timestamp="1572969905251">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
@@ -574,6 +623,14 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="403" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog/49.27.1317.741@49.27.1317.741" timestamp="1570278108936" />
+    <state x="383" y="192" key="run.anything.popup" timestamp="1572985204067">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="383" y="192" key="run.anything.popup/49.27.1317.741@49.27.1317.741" timestamp="1572985204067" />
+    <state x="302" y="58" width="800" height="677" key="scopes" timestamp="1572985083143">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="302" y="58" width="800" height="677" key="scopes/49.27.1317.741@49.27.1317.741" timestamp="1572985083143" />
     <state x="370" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1571157270274">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
