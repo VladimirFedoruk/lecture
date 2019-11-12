@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="add теорию о базах данных">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BazaDannyh/src/RabotaSBazoj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,13 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569871768129</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add teory">
-      <created>1569949591295</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1569949591295</updated>
     </task>
     <task id="LOCAL-00005" summary="add inner class">
       <created>1569949705047</created>
@@ -485,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572977940132</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="add 2 tables">
+      <created>1573553745041</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1573553745044</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="добавил перегруженный метод" />
     <MESSAGE value="сравнили коллекции Set" />
     <MESSAGE value="рассмотрели очередь" />
     <MESSAGE value="рассмотрели iterator" />
@@ -527,7 +527,8 @@
     <MESSAGE value="add new game" />
     <MESSAGE value="add race condition" />
     <MESSAGE value="add теорию о базах данных" />
-    <option name="LAST_COMMIT_MESSAGE" value="add теорию о базах данных" />
+    <MESSAGE value="add 2 tables" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 2 tables" />
   </component>
   <component name="WindowStateProjectService">
     <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1572457647870">
@@ -555,15 +556,23 @@
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
     <state x="1830" y="124" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573545872952" />
-    <state x="443" y="243" width="518" height="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1572457863547">
+    <state x="443" y="243" width="518" height="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1573581045212">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="443" y="243" width="518" height="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/49.27.1317.741@49.27.1317.741" timestamp="1572457863547" />
-    <state x="1638" y="28" width="924" height="684" key="DBNavigator.ProjectSettingsDialog" timestamp="1573553489493">
+    <state x="443" y="243" width="518" height="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/49.27.1317.741@49.27.1317.741" timestamp="1573581045212" />
+    <state x="1489" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1573553744222">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
+    <state x="1489" y="27" width="777" height="741" key="CommitChangelistDialog2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553744222" />
+    <state x="294" y="203" width="805" height="386" key="DBNavigator.ConnectionInfoDialog" timestamp="1573579864042">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="294" y="203" width="805" height="386" key="DBNavigator.ConnectionInfoDialog/49.27.1317.741@49.27.1317.741" timestamp="1573579864042" />
+    <state x="240" y="54" width="924" height="684" key="DBNavigator.ProjectSettingsDialog" timestamp="1573579865844">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
     <state x="1638" y="28" key="DBNavigator.ProjectSettingsDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553489493" />
-    <state x="240" y="54" width="924" height="684" key="DBNavigator.ProjectSettingsDialog/49.27.1317.741@49.27.1317.741" timestamp="1572986723720" />
+    <state x="240" y="54" width="924" height="684" key="DBNavigator.ProjectSettingsDialog/49.27.1317.741@49.27.1317.741" timestamp="1573579865844" />
     <state x="149" y="125" width="1117" height="543" key="DiffContextDialog" timestamp="1572693104047">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
@@ -598,26 +607,26 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="196" y="27" width="1024" height="741" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1572986561292" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1572977941964">
-      <screen x="49" y="27" width="1317" height="741" />
+    <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1573553751013">
+      <screen x="1440" y="0" width="1366" height="768" />
     </state>
-    <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1569873948058" />
+    <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553751013" />
     <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572977941964" />
-    <state x="383" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1573541652907">
-      <screen x="0" y="27" width="1440" height="873" />
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1573573689149">
+      <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="383" y="281" key="com.intellij.ide.util.TipDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573541652907" />
     <state x="1638" y="238" key="com.intellij.ide.util.TipDialog/49.27.1317.741/1366.14.1024.768@1366.14.1024.768" timestamp="1570046908830" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1572986605796" />
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1573573689149" />
     <state x="1811" y="79" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1573553388889">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
     <state x="1811" y="79" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553388889" />
-    <state x="49" y="27" width="654" height="472" key="new project wizard" timestamp="1572969905251">
+    <state x="49" y="27" width="654" height="472" key="new project wizard" timestamp="1573579910893">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1489" y="27" width="1317" height="741" key="new project wizard/0.27.1366.741/1366.0.1440.900@1366.0.1440.900" timestamp="1569872772869" />
-    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1572969905251" />
+    <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1573579910893" />
     <state x="356" y="97" width="654" height="472" key="new project wizard/49.27.3237.1053@49.27.3237.1053" timestamp="1572697746830" />
     <state x="403" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1570278108936">
       <screen x="49" y="27" width="1317" height="741" />
