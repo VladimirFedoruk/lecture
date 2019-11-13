@@ -23,12 +23,7 @@
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
     <show-object-properties value="true" />
-    <loaded-nodes>
-      <connection connection-id="854ee99b-028e-4498-96ad-0e237ab03a03">
-        <schema name="MyOfice" object-types="procedure, table, view, function" />
-        <schema name="xxx" object-types="table, column, view, function" />
-      </connection>
-    </loaded-nodes>
+    <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="854ee99b-028e-4498-96ad-0e237ab03a03">
@@ -171,7 +166,7 @@ select * from Customers;]]></console>
           <url-type value="DATABASE" />
           <host value="localhost" />
           <port value="3306" />
-          <database value="mysql" />
+          <database value="MyOfice" />
           <type value="USER_PASSWORD" />
           <user value="root" />
           <deprecated-pwd value="ZkRjYmtiUTIwMTch" />

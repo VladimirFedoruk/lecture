@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BazaDannyh/BazaDannyh.iml" filepath="$PROJECT_DIR$/BazaDannyh/BazaDannyh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BazaDannyhMyOfice/BazaDannyhMyOfice.iml" filepath="$PROJECT_DIR$/BazaDannyhMyOfice/BazaDannyhMyOfice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBase/DataBase.iml" filepath="$PROJECT_DIR$/DataBase/DataBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/DeadLock/DeadLockRisk.iml" filepath="$PROJECT_DIR$/DeadLock/DeadLockRisk.iml" />
       <module fileurl="file://$PROJECT_DIR$/gameMario/Exceptions.iml" filepath="$PROJECT_DIR$/gameMario/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/HiLo/HiLo.iml" filepath="$PROJECT_DIR$/HiLo/HiLo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegrationMySQL/IntegrationMySQL.iml" filepath="$PROJECT_DIR$/IntegrationMySQL/IntegrationMySQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/InteractionOfThreads/InteractionOfThreads.iml" filepath="$PROJECT_DIR$/InteractionOfThreads/InteractionOfThreads.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimerVtorogoScenaria/PrimerVtorogoScenaria.iml" filepath="$PROJECT_DIR$/PrimerVtorogoScenaria/PrimerVtorogoScenaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/RaceCondition/RaceCondition.iml" filepath="$PROJECT_DIR$/RaceCondition/RaceCondition.iml" />

@@ -1,0 +1,41 @@
+public class asotiationArray {
+  int [] v = new int[100];
+  String[]k =new String[100];
+  public void add(String key, int value){
+      for(int i = 0 ;i<k.length;i++){
+          if(k[i]==null){
+              k[i]=key;
+              v[i]=value;
+              break;
+          }
+      }
+  }
+  public Integer getV(String key) throws Exception {
+      for(int i = 0;i<k.length;i++){
+          if(key.equals(k[i])){
+              return v[i];
+          }
+      }
+      return null;
+  }
+  public static void main(String[] args)  {
+      asotiationArray asotiationArray= new asotiationArray();
+      asotiationArray.add("str",1);
+      asotiationArray.add("qe",2);
+      try {
+          asotiationArray.getV("str");
+      } catch (Exception e) {
+          e.printStackTrace();
+      }
+  }
+}
+[5:51 PM]
+добавить два метода контейн ски и конейнс велью
+[5:51 PM]
+ски проверяет есть ли такой ключ
+[5:52 PM]
+велью проверяет есть ли такое значение
+[5:52 PM]
+исключить возможность добавления такого же ключа
+[5:53 PM]
+метод выводящий ассоциативный массив в консоль

@@ -2,10 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BazaDannyh/src/RabotaSBazoj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/RabotaSBazoj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BazaDannyhMyOfice/BazaDannyhMyOfice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BazaDannyhMyOfice/src/Costum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBase/src/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_basa_dannyh.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/DataBase/RabotaSBazoj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/DataBase/mysql-connector-java-8.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/DataBase/teoriya" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/DeadLockRisk/DeadLockRisk$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/DeadLockRisk/DeadLockRisk$Resource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/DeadLockRisk/DeadLockRisk$ResourceA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/DeadLockRisk/DeadLockRisk$ResourceB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/DeadLockRisk/DeadLockRisk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/DeadLockRisk/META-INF/DeadLockRisk.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/Exceptions/Exceptions/HomeWork" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/RaceCondition/Barrel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/InterfRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/MyMartin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/MyRicky.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/MyTania.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/ThreadExecution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/ThreadZakreplenie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/Методы управления потоками" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/МойПоток.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/inner classes/teory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/list/List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/list/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/out/production/list/Noda.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BazaDannyh/src/RabotaSBazoj.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase/src/RabotaSBazoj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataBase/DataBase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase/DataBase.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +49,14 @@
     <option name="myElementSize" value="181" />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="lecture" />
+    <favorites_list name="lecture">
+      <favorite_root url="RabotaSBazoj" module="DataBase" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Script" />
         <option value="Class" />
       </list>
     </option>
@@ -28,11 +64,13 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="ew" />
         <option value="VF" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -48,20 +86,37 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1RZPi3ktPrfnKFZp7fVrfxnfhQg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path" value="$PROJECT_DIR$/DataBase/src" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="Module 'DataBase'" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Groovy" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/RaceCondition/src" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataBase/src/mysql-connector-java-8.0.15.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25027686" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/RaceCondition/src" />
@@ -70,11 +125,14 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sklad">
+  <component name="RunManager" selected="Application.Costum">
     <configuration name="Barrel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Barrel" />
       <module name="RaceCondition" />
@@ -82,9 +140,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeadLock" />
-      <module name="DeadLockRisk" />
+    <configuration name="Costum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Costum" />
+      <module name="BazaDannyhMyOfice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,20 +161,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadZakreplenie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadZakreplenie" />
-      <module name="Thread" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="mysql-connector-java-8.0.18.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/DataBase/src/mysql-connector-java-8.0.18.jar" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Costum" />
+        <item itemvalue="JAR Application.mysql-connector-java-8.0.18.jar" />
         <item itemvalue="Application.Sklad" />
         <item itemvalue="Application.Barrel" />
         <item itemvalue="Application.DeadLockRisk" />
-        <item itemvalue="Application.DeadLock" />
-        <item itemvalue="Application.ThreadZakreplenie" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +187,9 @@
       </list>
     </option>
   </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,SHOW_LAMBDA,SHOW_ANONYMOUS,SHOW_INHERITED,ALPHA_COMPARATOR" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -142,20 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569871768129</updated>
-    </task>
-    <task id="LOCAL-00005" summary="add inner class">
-      <created>1569949705047</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1569949705047</updated>
-    </task>
-    <task id="LOCAL-00006" summary="two variant access in private classes">
-      <created>1569950962958</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1569950962958</updated>
     </task>
     <task id="LOCAL-00007" summary="tree variant access in private classes">
       <created>1569951180769</created>
@@ -486,7 +530,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573553745044</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="add basa dannyh">
+      <created>1573581079413</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1573581079419</updated>
+    </task>
+    <task id="LOCAL-00055" summary="add basa dannyh">
+      <created>1573632784000</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1573632784003</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -503,7 +561,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="сравнили коллекции Set" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="рассмотрели очередь" />
     <MESSAGE value="рассмотрели iterator" />
     <MESSAGE value="добавить метод вставки" />
@@ -528,13 +586,24 @@
     <MESSAGE value="add race condition" />
     <MESSAGE value="add теорию о базах данных" />
     <MESSAGE value="add 2 tables" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 2 tables" />
+    <MESSAGE value="add basa dannyh" />
+    <option name="LAST_COMMIT_MESSAGE" value="add basa dannyh" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1572457647870">
+    <state x="1742" y="58" width="800" height="677" key="#Intentions" timestamp="1573630807789">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1742" y="58" width="800" height="677" key="#Intentions/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573630807789" />
+    <state x="302" y="58" width="800" height="677" key="#Project_Structure" timestamp="1573676165984">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="302" y="58" width="800" height="677" key="#Project_Structure/49.27.1317.741@49.27.1317.741" timestamp="1572457647870" />
+    <state x="1702" y="32" width="800" height="677" key="#Project_Structure/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573640699998" />
+    <state x="302" y="58" width="800" height="677" key="#Project_Structure/49.27.1317.741@49.27.1317.741" timestamp="1573676165984" />
+    <state x="403" y="79" width="685" height="661" key="#RabotaSBazoj" timestamp="1573676078553">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="1807" y="54" width="671" height="685" key="#RabotaSBazoj/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645590778" />
+    <state x="403" y="79" width="685" height="661" key="#RabotaSBazoj/49.27.1317.741@49.27.1317.741" timestamp="1573676078553" />
     <state x="1489" y="27" width="800" height="677" key="#Updates" timestamp="1573545871067">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
@@ -544,14 +613,23 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="165" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/49.27.1317.741@49.27.1317.741" timestamp="1572457751608" />
-    <state x="419" y="201" width="747" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1572970329047">
-      <screen x="49" y="27" width="1317" height="741" />
+    <state x="1824" y="180" width="747" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1573632928493">
+      <screen x="1440" y="0" width="1366" height="768" />
     </state>
+    <state x="1824" y="180" key="#com.intellij.fileTypes.FileTypeChooser/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573632928493" />
     <state x="419" y="201" width="747" height="390" key="#com.intellij.fileTypes.FileTypeChooser/49.27.1317.741@49.27.1317.741" timestamp="1572970329047" />
     <state x="515" y="109" width="544" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1571759899491">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="515" y="109" width="544" height="575" key="#com.intellij.ide.util.MemberChooser/49.27.1317.741@49.27.1317.741" timestamp="1571759899491" />
+    <state x="478" y="195" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1573676075578">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="478" y="195" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/49.27.1317.741@49.27.1317.741" timestamp="1573676075578" />
+    <state x="1853" y="66" width="579" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1573633738082">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1853" y="66" width="579" height="661" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573633738082" />
     <state x="1830" y="124" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1573545872952">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
@@ -560,72 +638,109 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="443" y="243" width="518" height="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/49.27.1317.741@49.27.1317.741" timestamp="1573581045212" />
-    <state x="1489" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1573553744222">
+    <state x="1489" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1573632784044">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
-    <state x="1489" y="27" width="777" height="741" key="CommitChangelistDialog2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553744222" />
-    <state x="294" y="203" width="805" height="386" key="DBNavigator.ConnectionInfoDialog" timestamp="1573579864042">
+    <state x="1489" y="27" width="777" height="741" key="CommitChangelistDialog2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573632784044" />
+    <state x="96" y="53" key="CommitChangelistDialog2/49.27.1317.741@49.27.1317.741" timestamp="1573581079151" />
+    <state x="294" y="159" width="805" height="609" key="DBNavigator.ConnectionInfoDialog" timestamp="1573676469607">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="294" y="203" width="805" height="386" key="DBNavigator.ConnectionInfoDialog/49.27.1317.741@49.27.1317.741" timestamp="1573579864042" />
-    <state x="240" y="54" width="924" height="684" key="DBNavigator.ProjectSettingsDialog" timestamp="1573579865844">
-      <screen x="49" y="27" width="1317" height="741" />
+    <state x="1694" y="182" key="DBNavigator.ConnectionInfoDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573639762835" />
+    <state x="294" y="159" width="805" height="609" key="DBNavigator.ConnectionInfoDialog/49.27.1317.741@49.27.1317.741" timestamp="1573676469607" />
+    <state x="1702" y="30" width="924" height="684" key="DBNavigator.ProjectSettingsDialog" timestamp="1573639765725">
+      <screen x="1440" y="0" width="1366" height="768" />
     </state>
-    <state x="1638" y="28" key="DBNavigator.ProjectSettingsDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553489493" />
-    <state x="240" y="54" width="924" height="684" key="DBNavigator.ProjectSettingsDialog/49.27.1317.741@49.27.1317.741" timestamp="1573579865844" />
+    <state x="1702" y="30" width="924" height="684" key="DBNavigator.ProjectSettingsDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573639765725" />
+    <state x="240" y="54" width="924" height="684" key="DBNavigator.ProjectSettingsDialog/49.27.1317.741@49.27.1317.741" timestamp="1573581910132" />
     <state x="149" y="125" width="1117" height="543" key="DiffContextDialog" timestamp="1572693104047">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="149" y="125" width="1117" height="543" key="DiffContextDialog/49.27.1317.741@49.27.1317.741" timestamp="1572693104047" />
-    <state x="1897" y="132" width="424" height="484" key="FileChooserDialogImpl" timestamp="1573553255822">
-      <screen x="1440" y="0" width="1366" height="768" />
-    </state>
-    <state x="1897" y="132" key="FileChooserDialogImpl/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553255822" />
-    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
-    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1572693103235" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1572699545082">
-      <screen x="49" y="27" width="3237" height="1053" />
-    </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1572693724422" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545082" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1572699545081">
-      <screen x="49" y="27" width="3237" height="1053" />
-    </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1572693724422" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545081" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1572699545080">
-      <screen x="49" y="27" width="3237" height="1053" />
-    </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1572693724421" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545080" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1572699545081">
-      <screen x="49" y="27" width="3237" height="1053" />
-    </state>
-    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1572693724422" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545081" />
-    <state x="196" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1572986561292">
+    <state x="490" y="154" width="735" height="484" key="FileChooserDialogImpl" timestamp="1573675928742">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="196" y="27" width="1024" height="741" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1572986561292" />
-    <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1573553751013">
-      <screen x="1440" y="0" width="1366" height="768" />
+    <state x="1897" y="132" width="735" height="513" key="FileChooserDialogImpl/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645091853" />
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
+    <state x="490" y="154" width="735" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1573675928742" />
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1573677855376">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645319814" />
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1573677855376" />
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545082" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1573677855374">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="175" key="GridCell.Tab.0.center/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645319814" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1573677855374" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545081" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1573677855373">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="175" key="GridCell.Tab.0.left/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645319814" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1573677855373" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545080" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1573677855375">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="175" key="GridCell.Tab.0.right/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645319814" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1573677855375" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545081" />
+    <state width="1271" height="219" key="GridCell.Tab.1.bottom" timestamp="1573582563079">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="219" key="GridCell.Tab.1.bottom/49.27.1317.741@49.27.1317.741" timestamp="1573582563079" />
+    <state width="1271" height="219" key="GridCell.Tab.1.center" timestamp="1573582563078">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="219" key="GridCell.Tab.1.center/49.27.1317.741@49.27.1317.741" timestamp="1573582563078" />
+    <state width="1271" height="219" key="GridCell.Tab.1.left" timestamp="1573582563078">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="219" key="GridCell.Tab.1.left/49.27.1317.741@49.27.1317.741" timestamp="1573582563078" />
+    <state width="1271" height="219" key="GridCell.Tab.1.right" timestamp="1573582563079">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="219" key="GridCell.Tab.1.right/49.27.1317.741@49.27.1317.741" timestamp="1573582563079" />
+    <state x="196" y="27" width="1063" height="741" key="SettingsEditor" timestamp="1573677505049">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="1592" y="27" width="1063" height="741" key="SettingsEditor/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645120254" />
+    <state x="196" y="27" width="1024" height="741" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1573677505049" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1573581081508">
+      <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553751013" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1572977941964" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1573573689149">
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1573581081508" />
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1573675709379">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="383" y="281" key="com.intellij.ide.util.TipDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573541652907" />
+    <state x="1507" y="27" key="com.intellij.ide.util.TipDialog/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573644727550" />
     <state x="1638" y="238" key="com.intellij.ide.util.TipDialog/49.27.1317.741/1366.14.1024.768@1366.14.1024.768" timestamp="1570046908830" />
-    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1573573689149" />
+    <state x="399" y="243" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1573675709379" />
+    <state x="391" y="310" width="613" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1573675856298">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="1795" y="293" width="646" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573639874107" />
+    <state x="391" y="310" width="613" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/49.27.1317.741@49.27.1317.741" timestamp="1573675856298" />
     <state x="1811" y="79" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1573553388889">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
     <state x="1811" y="79" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553388889" />
-    <state x="49" y="27" width="654" height="472" key="new project wizard" timestamp="1573579910893">
-      <screen x="49" y="27" width="1317" height="741" />
+    <state x="1915" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1573633316536">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1915" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573633316536" />
+    <state x="571" y="0" width="869" height="894" key="find.popup" timestamp="1573632457604">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="571" y="0" width="869" height="894" key="find.popup/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573632457604" />
+    <state x="1489" y="27" width="734" height="605" key="new project wizard" timestamp="1573635876980">
+      <screen x="1440" y="0" width="1366" height="768" />
     </state>
     <state x="1489" y="27" width="1317" height="741" key="new project wizard/0.27.1366.741/1366.0.1440.900@1366.0.1440.900" timestamp="1569872772869" />
+    <state x="1489" y="27" width="734" height="605" key="new project wizard/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573635876980" />
     <state x="49" y="27" width="1307" height="741" key="new project wizard/49.27.1317.741@49.27.1317.741" timestamp="1573579910893" />
     <state x="356" y="97" width="654" height="472" key="new project wizard/49.27.3237.1053@49.27.3237.1053" timestamp="1572697746830" />
     <state x="403" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1570278108936">

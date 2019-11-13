@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RabotaSBazoj" type="Application" factoryName="Application" editBeforeRun="true" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="RabotaSBazoj" />
+    <module name="DataBase" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

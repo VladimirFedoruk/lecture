@@ -1,15 +1,21 @@
 import java.sql.*;
-
 import static java.lang.System.*;
 
 public class RabotaSBazoj {
     public static void main(String[] args) {
-        String url = "jdbc:mysql://localhost:3306/mysql";
-        String user = "root@localhost";
+        String url = "jdbc:mysql://localhost:3306/mysql"+
+                "?verifyServerCertificate=false"+
+                "&useSSL=false"+
+                "&requireSSL=false"+
+                "&useLegacyDatetimeCode=false"+
+                "&amp"+
+                "&serverTimezone=UTC";
+        String user = "root";
         String pwd = "fDcbkbQ2017!";
         try {
             Connection conn =
                     DriverManager.getConnection(url, user, pwd); // GetConnection
+            System.out.println("work");
             Statement stmt = ((java.sql.Connection) conn).createStatement(); // Create Statement
             String query = "select * from Customers";
             ResultSet rs = stmt.executeQuery(query);  // ExecuteQuery
@@ -21,6 +27,8 @@ public class RabotaSBazoj {
                 out.print(rs.getString("Phone"));
             }
         } catch (SQLException se) {
+            System.out.println(se);
         }
     }
 }
+

@@ -1,0 +1,11 @@
+методы Thread Class
+public static void sleep(long millis) throws InterruptedException // может быть перегруженным
+    public static void yield()
+    public static void join()throws InterruptedException  // может быть перегруженным
+    public static void setPriority(int newPriority)
+
+   методы Object Class
+
+    public final void wait() throws InterruptedException
+    public final void notify()
+    public final void notifyAll()
