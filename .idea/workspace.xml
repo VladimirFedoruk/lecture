@@ -2,43 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0fda7-4aef-431e-a532-23afc5687ee8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/RabotaSBazoj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BazaDannyhMyOfice/BazaDannyhMyOfice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BazaDannyhMyOfice/src/Costum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataBase/src/mysql-connector-java-8.0.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add_basa_dannyh.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/DataBase/RabotaSBazoj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/DataBase/mysql-connector-java-8.0.18.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/DataBase/teoriya" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/DeadLockRisk/DeadLockRisk$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/DeadLockRisk/DeadLockRisk$Resource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/DeadLockRisk/DeadLockRisk$ResourceA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/DeadLockRisk/DeadLockRisk$ResourceB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/DeadLockRisk/DeadLockRisk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/DeadLockRisk/META-INF/DeadLockRisk.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/Exceptions/Exceptions/HomeWork" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/RaceCondition/Barrel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/InterfRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/MyMartin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/MyRicky.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/MyTania.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/ThreadExecution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/ThreadZakreplenie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/Методы управления потоками" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/Thread/МойПоток.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/inner classes/teory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/list/List.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/list/MyApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/out/production/list/Noda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BazaDannyh/src/RabotaSBazoj.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase/src/RabotaSBazoj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataBase/DataBase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase/DataBase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataBase/DataBase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataBase/src/RabotaSBazoj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataBase/src/mysql-connector-java-8.0.15.jar" beforeDir="false" afterPath="$PROJECT_DIR$/BazaDannyhMyOfice/src/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataBase/src/teoriya" beforeDir="false" afterPath="$PROJECT_DIR$/BazaDannyhMyOfice/src/teoriya" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +81,7 @@
     <property name="TODO_SCOPE" value="Module 'DataBase'" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Groovy" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataBase/src/mysql-connector-java-8.0.15.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BazaDannyhMyOfice/src/mysql-connector-java-8.0.15.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.25027686" />
@@ -129,6 +97,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BazaDannyhMyOfice/src" />
       <recent name="$PROJECT_DIR$/exceptions" />
     </key>
   </component>
@@ -200,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569871768129</updated>
-    </task>
-    <task id="LOCAL-00007" summary="tree variant access in private classes">
-      <created>1569951180769</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1569951180769</updated>
     </task>
     <task id="LOCAL-00008" summary="add Task2.java">
       <created>1569951357244</created>
@@ -544,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573632784003</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="add basa dannyh">
+      <created>1573677907401</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1573677907402</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -638,11 +607,11 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="443" y="243" width="518" height="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/49.27.1317.741@49.27.1317.741" timestamp="1573581045212" />
-    <state x="1489" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1573632784044">
-      <screen x="1440" y="0" width="1366" height="768" />
+    <state x="96" y="27" width="882" height="741" key="CommitChangelistDialog2" timestamp="1573677907021">
+      <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1489" y="27" width="777" height="741" key="CommitChangelistDialog2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573632784044" />
-    <state x="96" y="53" key="CommitChangelistDialog2/49.27.1317.741@49.27.1317.741" timestamp="1573581079151" />
+    <state x="96" y="27" width="882" height="741" key="CommitChangelistDialog2/49.27.1317.741@49.27.1317.741" timestamp="1573677907021" />
     <state x="294" y="159" width="805" height="609" key="DBNavigator.ConnectionInfoDialog" timestamp="1573676469607">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
@@ -657,35 +626,35 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="149" y="125" width="1117" height="543" key="DiffContextDialog/49.27.1317.741@49.27.1317.741" timestamp="1572693104047" />
-    <state x="490" y="154" width="735" height="484" key="FileChooserDialogImpl" timestamp="1573675928742">
+    <state x="490" y="154" width="735" height="484" key="FileChooserDialogImpl" timestamp="1573678147106">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1897" y="132" width="735" height="513" key="FileChooserDialogImpl/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645091853" />
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741/1366.14.1024.768@49.27.1317.741" timestamp="1570047003000" />
-    <state x="490" y="154" width="735" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1573675928742" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1573677855376">
+    <state x="490" y="154" width="735" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1573678147106" />
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom" timestamp="1573678173930">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state width="1271" height="175" key="GridCell.Tab.0.bottom/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645319814" />
-    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1573677855376" />
+    <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1573678173930" />
     <state width="1271" height="175" key="GridCell.Tab.0.bottom/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545082" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1573677855374">
+    <state width="1271" height="175" key="GridCell.Tab.0.center" timestamp="1573678173927">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state width="1271" height="175" key="GridCell.Tab.0.center/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645319814" />
-    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1573677855374" />
+    <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1573678173927" />
     <state width="1271" height="175" key="GridCell.Tab.0.center/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545081" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1573677855373">
+    <state width="1271" height="175" key="GridCell.Tab.0.left" timestamp="1573678173926">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state width="1271" height="175" key="GridCell.Tab.0.left/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645319814" />
-    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1573677855373" />
+    <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1573678173926" />
     <state width="1271" height="175" key="GridCell.Tab.0.left/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545080" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1573677855375">
+    <state width="1271" height="175" key="GridCell.Tab.0.right" timestamp="1573678173928">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state width="1271" height="175" key="GridCell.Tab.0.right/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645319814" />
-    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1573677855375" />
+    <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1573678173928" />
     <state width="1271" height="175" key="GridCell.Tab.0.right/49.27.3237.1053@49.27.3237.1053" timestamp="1572699545081" />
     <state width="1271" height="219" key="GridCell.Tab.1.bottom" timestamp="1573582563079">
       <screen x="49" y="27" width="1317" height="741" />
@@ -703,16 +672,16 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state width="1271" height="219" key="GridCell.Tab.1.right/49.27.1317.741@49.27.1317.741" timestamp="1573582563079" />
-    <state x="196" y="27" width="1063" height="741" key="SettingsEditor" timestamp="1573677505049">
+    <state x="196" y="27" width="1063" height="741" key="SettingsEditor" timestamp="1573678166638">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1592" y="27" width="1063" height="741" key="SettingsEditor/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573645120254" />
-    <state x="196" y="27" width="1024" height="741" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1573677505049" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1573581081508">
+    <state x="196" y="27" width="1024" height="741" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1573678166638" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1573677917068">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="1742" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/1440.0.1366.768/0.27.1440.873@1440.0.1366.768" timestamp="1573553751013" />
-    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1573581081508" />
+    <state x="340" y="155" width="800" height="526" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1573677917068" />
     <state x="399" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1573675709379">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
