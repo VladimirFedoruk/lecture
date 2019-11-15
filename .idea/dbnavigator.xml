@@ -23,15 +23,11 @@
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
     <show-object-properties value="true" />
-    <loaded-nodes>
-      <connection connection-id="854ee99b-028e-4498-96ad-0e237ab03a03">
-        <schema name="MyOfice" object-types="function, column, view, table" />
-      </connection>
-    </loaded-nodes>
+    <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="854ee99b-028e-4498-96ad-0e237ab03a03">
-      <console name="Connection" type="STANDARD" schema="MyOfice" session="Main">create TABLE expenses(
+      <console name="Connection" type="STANDARD" schema="MyOfice" session="Main"><![CDATA[create TABLE expenses(
 num int,
 paydate date,
 receiver int,
@@ -46,18 +42,18 @@ create TABLE recevers(
 num int,
 name varchar (255));
 
-insert into recevers (num, name) values (1, 'Интернет-провайдер &quot;Сало&quot;');
-insert into recevers (num, name) values (1, 'Гипермаркет &quot;Корона&quot;');
+insert into recevers (num, name) values (1, 'Интернет-провайдер "Сало"');
+insert into recevers (num, name) values (1, 'Гипермаркет "Корона"');
 insert into recevers (num, name) values (1, 'МТС');
-insert into recevers (num, name) values (1, 'Супермаркет &quot;ЕВРООПТ&quot;');
+insert into recevers (num, name) values (1, 'Супермаркет "ЕВРООПТ"');
 
 select num from recevers;
 select * from recevers;
 
-select * from expenses where value &gt;= '15000р';
-select * from expenses where value &lt;&gt; '10000р';
-select * from expenses where value &gt;= '15000р' or value &lt; '150000р';
-select * from expenses where num &gt;= 2 and num &lt; 4;
+select * from expenses where value >= '15000р';
+select * from expenses where value <> '10000р';
+select * from expenses where value >= '15000р' or value < '150000р';
+select * from expenses where num >= 2 and num < 4;
 
 create TABLE expenseses(
 num int,
@@ -69,7 +65,7 @@ insert into expenseses values (1,'10.5.2011',1,200000);
 insert into expenseses values (2,'10.5.2011',1,94200);
 insert into expenseses values (3,'11.5.2011',1,10000);
 insert into expenseses values (4,'11.5.2011',1,12950);
-select * from expenseses where value &gt;= 11000 and num &lt; 3;
+select * from expenseses where value >= 11000 and num < 3;
 
 select * from expenseses order by value;
 select * from recevers order by name;
@@ -80,10 +76,10 @@ select * from expenseses order by paydate, value;
 create TABLE receverses(
 num int,
 name varchar (255));
-insert into receverses (num, name) values (1, 'Internet-provaider &quot;Salo&quot;');
-insert into receverses (num, name) values (2, 'Gipermarket &quot;Korona&quot;');
+insert into receverses (num, name) values (1, 'Internet-provaider "Salo"');
+insert into receverses (num, name) values (2, 'Gipermarket "Korona"');
 insert into receverses (num, name) values (3, 'MTS');
-insert into receverses (num, name) values (4, 'Supermarket &quot;Evroopt&quot;');
+insert into receverses (num, name) values (4, 'Supermarket "Evroopt"');
 
 create TABLE expences(
 num int,
@@ -119,7 +115,7 @@ insert into Customers (CustomerID, FirstName, LastName, EMail, Phone) values (3,
 select * from Customers;
 insert into Customers (CustomerID, FirstName, LastName, EMail, Phone) values (4, 'Petrov', 'Genja', 'Petrov@mail.ru', '+375 29 6787903');
 
-select * from Customers;</console>
+select * from Customers;]]></console>
     </connection>
     <connection id="80ec186c-b4a0-440b-9434-540b3f03eb4a">
       <console name="Connection 1" type="STANDARD" schema="mysql" session="Main" />
