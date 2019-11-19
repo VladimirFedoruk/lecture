@@ -12,7 +12,8 @@ public class Costum {
             System.out.println("work");
             Statement stmt = ((java.sql.Connection) conn).createStatement(); // Create Statement
             //stmt.execute("insert into Customers (CustomerID, FirstName, LastName, EMail, Phone) values (5, 'Sidorov', 'Fedya', 'sidrov.fed@mail.ru', '+375 25 5678903');");
-            int res = stmt.executeUpdate("update Customers set LastName = 'Fedot' where CustomerID= 5;");
+            //stmt.execute("insert into Customers (CustomerID, FirstName, LastName, EMail, Phone) values (6, 'Kolesova', 'Masha', 'kolrsova.m@gmail.com', '+375 33 2678903');");
+            int res = stmt.executeUpdate("update Customers set LastName = 'Marina' where CustomerID= 6;");
             String query = "select * from Customers";
             ResultSet rs = stmt.executeQuery(query);  // ExecuteQuery
             while (rs.next()) {                         // Process Results
