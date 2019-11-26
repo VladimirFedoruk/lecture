@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BazaDannyhMyOfice/BazaDannyhMyOfice.iml" filepath="$PROJECT_DIR$/BazaDannyhMyOfice/BazaDannyhMyOfice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DaoFabrica/DaoFabrica.iml" filepath="$PROJECT_DIR$/DaoFabrica/DaoFabrica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dao_Design/Dao_Design.iml" filepath="$PROJECT_DIR$/Dao_Design/Dao_Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBase/DataBase.iml" filepath="$PROJECT_DIR$/DataBase/DataBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/DeadLock/DeadLockRisk.iml" filepath="$PROJECT_DIR$/DeadLock/DeadLockRisk.iml" />
       <module fileurl="file://$PROJECT_DIR$/gameMario/Exceptions.iml" filepath="$PROJECT_DIR$/gameMario/Exceptions.iml" />
@@ -12,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/InteractionOfThreads/InteractionOfThreads.iml" filepath="$PROJECT_DIR$/InteractionOfThreads/InteractionOfThreads.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimerVtorogoScenaria/PrimerVtorogoScenaria.iml" filepath="$PROJECT_DIR$/PrimerVtorogoScenaria/PrimerVtorogoScenaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/RaceCondition/RaceCondition.iml" filepath="$PROJECT_DIR$/RaceCondition/RaceCondition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet/Servlet.iml" filepath="$PROJECT_DIR$/Servlet/Servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner classes/inner classes.iml" filepath="$PROJECT_DIR$/inner classes/inner classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture.iml" filepath="$PROJECT_DIR$/lecture.iml" />
